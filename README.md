@@ -12,7 +12,12 @@ Energy theft attacks compromise smart meters so that they report less electricit
 
 The framework is evaluated on synthetic data that combines real utility base load with a custom EV charging simulator, under several attack intensities.
 
+## Paper
 
+- **Title:** Trust-Based Localization of Compromised Meters in EV-Integrated Smart Grids under Energy Theft Attacks
+- **Authors:** Shengwen Ding and Mai Abdelhakim
+- **Venue:** Workshop on Cyber-Physical Power System Resilience: Challenges and Emerging Solutions, held at IEEE SmartGridComm 2026 (IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids), College Station, TX, USA, October 2026
+- **Link:** TBD
 
 ## Citation
 
