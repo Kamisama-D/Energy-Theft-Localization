@@ -17,10 +17,12 @@ The framework is evaluated on synthetic data that combines real utility base loa
 ## Citation
 
 ```bibtex
-@inproceedings{TBD,
-  title     = {Trust-Based Localization of Compromised Meters in EV-Integrated Smart Grids under Energy Theft Attacks},
-  author    = {TBD},
-  booktitle = {TBD},
-  year      = {TBD}
+@inproceedings{ding2026trust,
+  author    = {Ding, S. and Abdelhakim, M.},
+  title     = {Trust-Based Localization of Compromised Meters in {EV}-Integrated Smart Grids under Energy Theft Attacks},
+  booktitle = {Proc. Workshop on Cyber-Physical Power System Resilience: Challenges and Emerging Solutions, IEEE SmartGridComm 2026: IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids},
+  address   = {College Station, TX, USA},
+  month     = oct,
+  year      = {2026}
 }
 ```
