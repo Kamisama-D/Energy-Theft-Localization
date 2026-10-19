@@ -1,5 +1,3 @@
-# Energy-Theft-Localization
-
 # Locating Compromised Smart Meters in EV-Integrated Smart Grids
 
 Code for the paper **"Trust-Based Localization of Compromised Meters in EV-Integrated Smart Grids under Energy Theft Attacks"** (link TBD).
