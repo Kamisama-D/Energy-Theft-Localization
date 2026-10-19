@@ -27,7 +27,7 @@ class Base_Load:
             # Get the directory of this file (Classes folder)
             base_dir = os.path.dirname(__file__)
             # Construct the path to the Dataset folder, one level up from Classes.
-            excel_file = os.path.join(base_dir, "..", "Dataset", "Merged Anonymous Meter Data.xlsx")
+            excel_file = os.path.join(base_dir, "..", "Dataset", "Data.xlsx")
         self.excel_file = excel_file
         self.sheet_name = sheet_name
         self.load_column = load_column
